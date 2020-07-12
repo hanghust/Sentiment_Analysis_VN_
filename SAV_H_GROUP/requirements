@@ -1,7 +1,0 @@
-keras==2.2.4
-numpy==1.18.1
-tensorflow==1.15.0
-pyvi==0.0.9.7
-pandas
-gensim==3.8.0
-scikit-learn
